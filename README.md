@@ -19,7 +19,7 @@ https://www.reddit.com/r/learnpython/comments/jv48ib/set_yaxis_label_for_pandas_
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.boxplot.html
 https://github.com/jaysueno/pymaceuticals/blob/master/Pymaceuticals/Pymaceuticals_jay_v2_FINALSUBMISSION.ipynb
 
-
+Worked with Roxanne and LA through AskBCS for two different errors both of which were resolved. 
 
 could NOT figure out how to get my ylabels working. I tried ax.set_ylabel from a number of sources online but they didn't work. Going to continue to try to troubleshoot but I understand it is missing. 
 
